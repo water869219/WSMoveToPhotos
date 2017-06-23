@@ -7,23 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4992CBB01EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 4992CBA51EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.m */; };
+		4992CBB11EFCF66000D72CED /* ReadMe in Resources */ = {isa = PBXBuildFile; fileRef = 4992CBA61EFCF66000D72CED /* ReadMe */; };
+		4992CBB21EFCF66000D72CED /* AddGroupMemberBtnHL.png in Resources */ = {isa = PBXBuildFile; fileRef = 4992CBA81EFCF66000D72CED /* AddGroupMemberBtnHL.png */; };
+		4992CBB31EFCF66000D72CED /* NSData+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 4992CBAA1EFCF66000D72CED /* NSData+YYAdd.m */; };
+		4992CBB41EFCF66000D72CED /* WSMoveToPhotosView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4992CBAC1EFCF66000D72CED /* WSMoveToPhotosView.m */; };
+		4992CBB51EFCF66000D72CED /* WSMoveToPhotosViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4992CBAE1EFCF66000D72CED /* WSMoveToPhotosViewCell.m */; };
 		49E9132C1EFCBEE300384208 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E9132B1EFCBEE300384208 /* main.m */; };
 		49E9132F1EFCBEE300384208 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E9132E1EFCBEE300384208 /* AppDelegate.m */; };
 		49E913321EFCBEE300384208 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E913311EFCBEE300384208 /* ViewController.m */; };
 		49E913351EFCBEE300384208 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49E913331EFCBEE300384208 /* Main.storyboard */; };
 		49E913371EFCBEE300384208 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49E913361EFCBEE300384208 /* Assets.xcassets */; };
 		49E9133A1EFCBEE300384208 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49E913381EFCBEE300384208 /* LaunchScreen.storyboard */; };
-		49E9134D1EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E913441EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.m */; };
-		49E9134E1EFCBEEC00384208 /* NSData+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E913471EFCBEEC00384208 /* NSData+YYAdd.m */; };
-		49E9134F1EFCBEEC00384208 /* WSMoveToPhotosView.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E913491EFCBEEC00384208 /* WSMoveToPhotosView.m */; };
-		49E913501EFCBEEC00384208 /* WSMoveToPhotosViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 49E9134B1EFCBEEC00384208 /* WSMoveToPhotosViewCell.m */; };
 		49E913551EFCC15F00384208 /* libz.1.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 49E913531EFCC14A00384208 /* libz.1.tbd */; };
-		49E913571EFCC29700384208 /* AddGroupMemberBtnHL.png in Resources */ = {isa = PBXBuildFile; fileRef = 49E913561EFCC29700384208 /* AddGroupMemberBtnHL.png */; };
-		49E913591EFCC35300384208 /* ReadMe in Resources */ = {isa = PBXBuildFile; fileRef = 49E913581EFCC35300384208 /* ReadMe */; };
 		CDF1D44763F479269995CF68 /* libPods-WSMoveToPhotosDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B7AC0A023AB120BD6B0C9A51 /* libPods-WSMoveToPhotosDemo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4992CBA41EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXReorderableCollectionViewFlowLayout.h; sourceTree = "<group>"; };
+		4992CBA51EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXReorderableCollectionViewFlowLayout.m; sourceTree = "<group>"; };
+		4992CBA61EFCF66000D72CED /* ReadMe */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe; sourceTree = "<group>"; };
+		4992CBA81EFCF66000D72CED /* AddGroupMemberBtnHL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AddGroupMemberBtnHL.png; sourceTree = "<group>"; };
+		4992CBA91EFCF66000D72CED /* NSData+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+YYAdd.h"; sourceTree = "<group>"; };
+		4992CBAA1EFCF66000D72CED /* NSData+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+YYAdd.m"; sourceTree = "<group>"; };
+		4992CBAB1EFCF66000D72CED /* WSMoveToPhotosView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSMoveToPhotosView.h; sourceTree = "<group>"; };
+		4992CBAC1EFCF66000D72CED /* WSMoveToPhotosView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSMoveToPhotosView.m; sourceTree = "<group>"; };
+		4992CBAD1EFCF66000D72CED /* WSMoveToPhotosViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSMoveToPhotosViewCell.h; sourceTree = "<group>"; };
+		4992CBAE1EFCF66000D72CED /* WSMoveToPhotosViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSMoveToPhotosViewCell.m; sourceTree = "<group>"; };
+		4992CBAF1EFCF66000D72CED /* YYKitMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYKitMacro.h; sourceTree = "<group>"; };
 		49E913271EFCBEE300384208 /* WSMoveToPhotosDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WSMoveToPhotosDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49E9132B1EFCBEE300384208 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		49E9132D1EFCBEE300384208 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -34,19 +45,8 @@
 		49E913361EFCBEE300384208 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49E913391EFCBEE300384208 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49E9133B1EFCBEE300384208 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		49E913431EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXReorderableCollectionViewFlowLayout.h; sourceTree = "<group>"; };
-		49E913441EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXReorderableCollectionViewFlowLayout.m; sourceTree = "<group>"; };
-		49E913461EFCBEEC00384208 /* NSData+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+YYAdd.h"; sourceTree = "<group>"; };
-		49E913471EFCBEEC00384208 /* NSData+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+YYAdd.m"; sourceTree = "<group>"; };
-		49E913481EFCBEEC00384208 /* WSMoveToPhotosView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSMoveToPhotosView.h; sourceTree = "<group>"; };
-		49E913491EFCBEEC00384208 /* WSMoveToPhotosView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSMoveToPhotosView.m; sourceTree = "<group>"; };
-		49E9134A1EFCBEEC00384208 /* WSMoveToPhotosViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSMoveToPhotosViewCell.h; sourceTree = "<group>"; };
-		49E9134B1EFCBEEC00384208 /* WSMoveToPhotosViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSMoveToPhotosViewCell.m; sourceTree = "<group>"; };
-		49E9134C1EFCBEEC00384208 /* YYKitMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYKitMacro.h; sourceTree = "<group>"; };
 		49E913511EFCC14000384208 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		49E913531EFCC14A00384208 /* libz.1.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.1.tbd; path = usr/lib/libz.1.tbd; sourceTree = SDKROOT; };
-		49E913561EFCC29700384208 /* AddGroupMemberBtnHL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AddGroupMemberBtnHL.png; sourceTree = "<group>"; };
-		49E913581EFCC35300384208 /* ReadMe */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe; sourceTree = "<group>"; };
 		54836451F595E8DE7A06BD5F /* Pods-WSMoveToPhotosDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSMoveToPhotosDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WSMoveToPhotosDemo/Pods-WSMoveToPhotosDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		B7AC0A023AB120BD6B0C9A51 /* libPods-WSMoveToPhotosDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WSMoveToPhotosDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A6C061552AB80FF3D962D2 /* Pods-WSMoveToPhotosDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSMoveToPhotosDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-WSMoveToPhotosDemo/Pods-WSMoveToPhotosDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -75,6 +75,40 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		4992CBA21EFCF66000D72CED /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4992CBA31EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout */,
+				4992CBA61EFCF66000D72CED /* ReadMe */,
+				4992CBA71EFCF66000D72CED /* WSMoveToPhotosView */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		4992CBA31EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout */ = {
+			isa = PBXGroup;
+			children = (
+				4992CBA41EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.h */,
+				4992CBA51EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.m */,
+			);
+			path = LXReorderableCollectionViewFlowLayout;
+			sourceTree = "<group>";
+		};
+		4992CBA71EFCF66000D72CED /* WSMoveToPhotosView */ = {
+			isa = PBXGroup;
+			children = (
+				4992CBA81EFCF66000D72CED /* AddGroupMemberBtnHL.png */,
+				4992CBA91EFCF66000D72CED /* NSData+YYAdd.h */,
+				4992CBAA1EFCF66000D72CED /* NSData+YYAdd.m */,
+				4992CBAB1EFCF66000D72CED /* WSMoveToPhotosView.h */,
+				4992CBAC1EFCF66000D72CED /* WSMoveToPhotosView.m */,
+				4992CBAD1EFCF66000D72CED /* WSMoveToPhotosViewCell.h */,
+				4992CBAE1EFCF66000D72CED /* WSMoveToPhotosViewCell.m */,
+				4992CBAF1EFCF66000D72CED /* YYKitMacro.h */,
+			);
+			path = WSMoveToPhotosView;
+			sourceTree = "<group>";
+		};
 		49E9131E1EFCBEE300384208 = {
 			isa = PBXGroup;
 			children = (
@@ -96,7 +130,7 @@
 		49E913291EFCBEE300384208 /* WSMoveToPhotosDemo */ = {
 			isa = PBXGroup;
 			children = (
-				49E913411EFCBEEC00384208 /* Libs */,
+				4992CBA21EFCF66000D72CED /* Classes */,
 				49E9132D1EFCBEE300384208 /* AppDelegate.h */,
 				49E9132E1EFCBEE300384208 /* AppDelegate.m */,
 				49E913301EFCBEE300384208 /* ViewController.h */,
@@ -116,40 +150,6 @@
 				49E9132B1EFCBEE300384208 /* main.m */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		49E913411EFCBEEC00384208 /* Libs */ = {
-			isa = PBXGroup;
-			children = (
-				49E913421EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout */,
-				49E913451EFCBEEC00384208 /* WSMoveToPhotosView */,
-				49E913581EFCC35300384208 /* ReadMe */,
-			);
-			path = Libs;
-			sourceTree = "<group>";
-		};
-		49E913421EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout */ = {
-			isa = PBXGroup;
-			children = (
-				49E913431EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.h */,
-				49E913441EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.m */,
-			);
-			path = LXReorderableCollectionViewFlowLayout;
-			sourceTree = "<group>";
-		};
-		49E913451EFCBEEC00384208 /* WSMoveToPhotosView */ = {
-			isa = PBXGroup;
-			children = (
-				49E913561EFCC29700384208 /* AddGroupMemberBtnHL.png */,
-				49E913461EFCBEEC00384208 /* NSData+YYAdd.h */,
-				49E913471EFCBEEC00384208 /* NSData+YYAdd.m */,
-				49E913481EFCBEEC00384208 /* WSMoveToPhotosView.h */,
-				49E913491EFCBEEC00384208 /* WSMoveToPhotosView.m */,
-				49E9134A1EFCBEEC00384208 /* WSMoveToPhotosViewCell.h */,
-				49E9134B1EFCBEEC00384208 /* WSMoveToPhotosViewCell.m */,
-				49E9134C1EFCBEEC00384208 /* YYKitMacro.h */,
-			);
-			path = WSMoveToPhotosView;
 			sourceTree = "<group>";
 		};
 		BF0686A6D69CFE98503B9B1D /* Pods */ = {
@@ -222,8 +222,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49E913591EFCC35300384208 /* ReadMe in Resources */,
-				49E913571EFCC29700384208 /* AddGroupMemberBtnHL.png in Resources */,
+				4992CBB11EFCF66000D72CED /* ReadMe in Resources */,
+				4992CBB21EFCF66000D72CED /* AddGroupMemberBtnHL.png in Resources */,
 				49E9133A1EFCBEE300384208 /* LaunchScreen.storyboard in Resources */,
 				49E913371EFCBEE300384208 /* Assets.xcassets in Resources */,
 				49E913351EFCBEE300384208 /* Main.storyboard in Resources */,
@@ -285,12 +285,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49E9134E1EFCBEEC00384208 /* NSData+YYAdd.m in Sources */,
+				4992CBB31EFCF66000D72CED /* NSData+YYAdd.m in Sources */,
 				49E913321EFCBEE300384208 /* ViewController.m in Sources */,
 				49E9132F1EFCBEE300384208 /* AppDelegate.m in Sources */,
-				49E9134F1EFCBEEC00384208 /* WSMoveToPhotosView.m in Sources */,
-				49E913501EFCBEEC00384208 /* WSMoveToPhotosViewCell.m in Sources */,
-				49E9134D1EFCBEEC00384208 /* LXReorderableCollectionViewFlowLayout.m in Sources */,
+				4992CBB41EFCF66000D72CED /* WSMoveToPhotosView.m in Sources */,
+				4992CBB51EFCF66000D72CED /* WSMoveToPhotosViewCell.m in Sources */,
+				4992CBB01EFCF66000D72CED /* LXReorderableCollectionViewFlowLayout.m in Sources */,
 				49E9132C1EFCBEE300384208 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
