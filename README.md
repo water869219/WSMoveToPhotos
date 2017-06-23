@@ -1,0 +1,2 @@
+# WSMoveToPhotos
+show,move Photos
