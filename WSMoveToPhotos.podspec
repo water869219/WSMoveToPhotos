@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios,'6.0'
 
    s.source       = { :git => "http://EXAMPLE/WSMoveToPhotos.git", :tag => "#{s.version}" }
-  s.source_files = "WSMoveToPhotosDemo/Classes/*.{h,m}"
+  s.source_files = "WSMoveToPhotos/Classes/*.{h,m}"
   s.framework    = "UIKit"
   s.requires_arc = true
 end
