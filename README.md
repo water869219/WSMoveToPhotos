@@ -5,3 +5,5 @@ show,move Photos
 如：<key>NSPhotoLibraryUsageDescription</key>
 <string>app需要您的同意,才能访问相册</string>
 3.默认最多选择5张（imageMaxNum）
+
+![image](https://github.com/water869219/WSMoveToPhotos/blob/master/movetoPhoto.gif) 
